@@ -1,0 +1,6 @@
+Hey this is changed with write mode.
+Thankyou for using file handling
+hello this is changed with the append mode,
+thank you.
+hello this is changed with the append mode,
+thank you.
